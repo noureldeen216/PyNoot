@@ -56,7 +56,6 @@ from pynoot import *
 ```
 
 ```py
-
 # بناخد بيانات من المستخدم ونرد عليه بالمنطق
 from pynoot import *
 
