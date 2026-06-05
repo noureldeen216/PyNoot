@@ -5,6 +5,7 @@
 
 ## 🔗 روابط المشروع الرسمية (Official Links)
 * 💻 **المشروع على GitHub:** [اضغط هنا لزيارة صفحة المشروع ومتابعة التحديثات](https://github.com/noureldeen216/PyNoot)
+* 📚 **تحميل الدليل التعليمي الشامل (PDF Documentation):** [اضغط هنا لتحميل كتاب الشرح الكامل مجاناً](https://github.com/noureldeen216/PyNoot/blob/main/PyNoot%20%E2%80%93%20Official%20Documentation%20(v0.1).pdf)
 
 ---
 
@@ -55,9 +56,10 @@ from pynoot import *
 ```
 
 ```py
-from pynoot import *
 
 # بناخد بيانات من المستخدم ونرد عليه بالمنطق
+from pynoot import *
+
 الاسم = ادخل()("اسمك إيه يا بطل؟ ")
 اطبع(f"منور الدنيا يا {الاسم}، جاهز تبدأ رحلتك؟")
 ```
